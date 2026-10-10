@@ -1,0 +1,26 @@
+{
+  "manifest_version": "1.0",
+  "org": "samuelcolvin",
+  "repo": "tinicly",
+  "versions": [
+    {
+      "commit": "2486fa3ea42a1f53397ce97b0a201f22fbf12d47",
+      "parsed_at": "2026-10-10T22:49:16.010011+00:00",
+      "filetree": "filetree/2486fa3ea42a1f53397ce97b0a201f22fbf12d47.nq.gz",
+      "blobs": [
+        "blob/bf110f1102e35a9647413c032adedace0ff31f58.nq.gz",
+        "blob/3359023e02559c4e43dff6ab55563bfe1bf2d314.nq.gz",
+        "blob/0640d980e43d12671ba77655a874b3e202a39a82.nq.gz",
+        "blob/29b89b9084d3c160f4fb4b2d1133d5c919db8a31.nq.gz",
+        "blob/24ee5b1be9961e38a503c8e764b7385dbb6ba124.nq.gz",
+        "blob/bc6edc524d8ce9ea33f9f093146ba8f07eb7af20.nq.gz",
+        "blob/1b40929afc7fda8ad38060b57f82b7acb1d7cd88.nq.gz",
+        "blob/c6fc301e8adcf33c7d9c5ad574a57befb5a93807.nq.gz",
+        "blob/6050ceb7dd2dab15085841a79eeb6076821ac753.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
